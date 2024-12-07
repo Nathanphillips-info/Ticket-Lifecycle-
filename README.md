@@ -40,7 +40,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Whether you have assigned the ticket to someone else or yourself, the next step is to work on it until it is resolved, keeping the person who issued the ticket up to date on when the problem will be resolved. 
+- Whether you have assigned the ticket to someone else or yourself, the next step is to work on it until it is resolved, keeping the person who issued the ticket up to date on when the problem will be resolved. 
   <p>
 - A ticket should be created for everything you do or the problem you solve to track issues and keep the knowledge base growing so you can fix the problem quickly. 
   </p>
