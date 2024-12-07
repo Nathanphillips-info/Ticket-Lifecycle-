@@ -37,7 +37,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/c94a8523-3194-416e-856c-06e22d579628"/>
 </p>
 <p>
 - Whether you have assigned the ticket to someone else or yourself, the next step is to work on it until it is resolved, keeping the person who issued the ticket up to date on when the problem will be resolved. 
