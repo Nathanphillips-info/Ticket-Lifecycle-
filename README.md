@@ -40,7 +40,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://github.com/user-attachments/assets/c94a8523-3194-416e-856c-06e22d579628"/>
 </p>
 <p>
-- Whether you have assigned the ticket to someone else or yourself, the next step is to work on it until it is resolved, keeping the person who issued the ticket up to date on when the problem will be resolved. 
+- Whether you have assigned the ticket to someone else or yourself, the next step is to work on it until it is resolved, keeping the person who issued the ticket updated on when the problem will be resolved. 
   <p>
 - A ticket should be created for everything you do or the problem you solve to track issues and keep the knowledge base growing so you can fix the problem quickly. 
   </p>
