@@ -26,7 +26,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/3f185986-6e64-4c99-900b-2105a0048a53"/>
 </p>
 <p>
 - As the end user, create tickets to respond to. Create the ticket "entire mobile banking system is down." 
